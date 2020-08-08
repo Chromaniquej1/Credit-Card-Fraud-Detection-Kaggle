@@ -20,5 +20,13 @@ It contains only numerical input variables which are the result of a PCA transfo
   
   5.**Seaborn**:Its a Data Visualisation library
  
- ## Implementation of Logistic Regression Classifier
+ ## Results 
  
+ precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     85306
+           1       0.66      0.71      0.69       137
+
+    accuracy                           1.00     85443
+   macro avg       0.83      0.85      0.84     85443
+weighted avg       1.00      1.00      1.00     85443
